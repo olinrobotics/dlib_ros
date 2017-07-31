@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: dlib
+Description: Description of dlib
+Version: 19.4.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

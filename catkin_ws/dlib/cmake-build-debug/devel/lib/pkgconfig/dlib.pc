@@ -1,0 +1,8 @@
+prefix=/home/sophianielsen/catkin_ws/dlib/cmake-build-debug/devel
+
+Name: dlib
+Description: Description of dlib
+Version: 19.4.0
+Cflags: 
+Libs: -L/home/sophianielsen/catkin_ws/dlib/cmake-build-debug/devel/lib 
+Requires: 
